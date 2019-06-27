@@ -1,0 +1,8 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2"><Placemark>
+  <name>Live GPS</name>
+  <description>Live GPS from master.</description>
+  <Point>
+    <coordinates>-4.3,52.3,0</coordinates>
+  </Point>
+</Placemark></kml>
